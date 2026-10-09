@@ -24,7 +24,6 @@ st.write(2)
 
 st.text(2)
 
-st.image(r'C:\Users\Asif Sarwar\Downloads\beach.jpg')
 
 st.video(r'https://youtu.be/hP48QCkiQVI?si=aiAey1q6i3m8QatF')
 
